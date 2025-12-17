@@ -1,1 +1,1 @@
-FROM dustynv/sglang:0.4.4-r36.4.0-cu128-24.04
+FROM lmsysorg/sglang:v0.5.6.post2
