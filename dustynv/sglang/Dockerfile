@@ -1,1 +1,1 @@
-FROM lmsysorg/sglang:v0.5.8
+FROM lmsysorg/sglang:v0.5.9
